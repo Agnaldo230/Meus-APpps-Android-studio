@@ -1,0 +1,7 @@
+com/agnaldo/calculeitor/BuildConfig.java
+ com.agnaldo.calculeitor.BuildConfig
+com/agnaldo/calculeitor/MainActivity.java
+ com.agnaldo.calculeitor.MainActivity
+ com.agnaldo.calculeitor.MainActivity$1
+ com.agnaldo.calculeitor.MainActivity$2
+ com.agnaldo.calculeitor.MainActivity$3
